@@ -18,9 +18,7 @@
     "axios": "^1.4.0",
     "geolib": "^3.3.4",
     "graphql": "^16.7.1",
-    "moment": "^2.29.4"
-  },
-  "devDependencies": {
+    "moment": "^2.29.4",
     "@graphql-codegen/cli": "4.0.1",
     "@graphql-codegen/typescript": "4.0.1",
     "@graphql-codegen/typescript-resolvers": "4.0.1",
