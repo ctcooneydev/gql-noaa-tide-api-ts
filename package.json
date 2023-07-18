@@ -6,7 +6,7 @@
   "scripts": {
     "generate": "graphql-codegen --config codegen.yml",
     "compile": "npm run generate && tsc",
-    "start": "npm run compile && node ./dist/index.js",
+    "start": "npm run compile && node ./dist/server.js",
     "codegen": "graphql-codegen --config codegen.ts"
   },
   "keywords": [],
