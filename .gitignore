@@ -12,5 +12,3 @@ dist
 
 #  Ignore generated typescript files
 __generated__/
-
-
